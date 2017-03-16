@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://rosetonews.herokuapp.com/execute.php';
+$WEBHOOK_URL = https://rosetonews.herokuapp.com/execute.php;
 $BOT_TOKEN = '30172895:AAEadXydreyJPX-fzqrtP5ku_FcPAV85pE';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
