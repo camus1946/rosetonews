@@ -2,7 +2,7 @@
 
 // PARAMETRI DA MODIFICARE
 $WEBHOOK_URL = https://rosetonews.herokuapp.com/execute.php;
-$BOT_TOKEN = '30172895:AAEadXydreyJPX-fzqrtP5ku_FcPAV85pE';
+$BOT_TOKEN = 30172895:AAEadXydreyJPX-fzqrtP5ku_FcPAV85pE;
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
 $API_URL = 'https://api.telegram.org/bot' . $BOT_TOKEN .'/';
